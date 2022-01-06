@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head> <title>About</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+<div class="main_container">
+	<div class="navbar"> 
+			<div class="logo">
+				<img src="..\website\images\umbra.png">
+			</div>
+			<div class="navbar_items">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html" class="active">About</a></li>
+					<li><a href="menu.html#menuTop" >Menu</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+</div>
+
+		<div class="banner_image1">
+			<div class="banner_content">
+				
+					
+			</div>
+		</div>
+		
+		
+		
+		<div class="about_us" id="about">
+			<h1 class="title_about"> About Us </h1>
+		</div> 
+		<section class="about_panel">
+			<div class="about_content"><br><br>
+			<h1 class="about_h1"> Good food for all </h1> <br>
+			<p>Umbra grills is our ambition to provied high quality burgers, for reasonable prices. We are obsessed in trying to create the perfect burger. We are a small business that has a commitment to premium ingredients, signature recipes, and family-friendly dining experiences. </p> 
+			<br><br><br>
+			<h1 class="about_h1"> Contact Us </h1> <br><br>
+			<h2 class="about_h2"> Umbra Grills </h2> <br>
+			<p> Landline number: <i>988-8979</i> </p>
+			</div>
+		</section>
+
+<footer>
+        <div class="footer-content">
+            <h3>Umbra Grills</h3>
+            <p>Umbra Grills can be found in Barangay West Rembo, Makati City</p>
+            <ul class="socials">             				
+            </ul>
+        </div>
+		
+        <div class="footer-bottom">
+            <p>copyright &copy;2022 umbraGrills. designed by <span>Group 9</span></p>
+        </div>
+    </footer>
+
+</body>
+
+
+
+
+
+</html>
